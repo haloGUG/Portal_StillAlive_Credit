@@ -3,7 +3,7 @@ import time
 from playsound import playsound
 import threading
 
-mp3_path = r"D:\vcdata\workspace\草稿\still alive.mp3"
+mp3_path = r"still alive.mp3"
 
 columns, rows = shutil.get_terminal_size()
 
